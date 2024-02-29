@@ -1,0 +1,15 @@
+---
+title: "1ª Edição"
+date: 2024-02-29T12:15:07-03:00
+draft: false
+---
+
+= 1ª Edição
+
+A primeira edição do LivreZine foi escrita e impressa no dia 28 de fevereiro de
+2024. Consigo traz dois temas: os *custos sociais insustentáveis da
+infraestrutura rodoviária*, onde denuncia a epidemia de estacionamentos e
+viadutos e demais infraestrutura, que desperdiça verba pública e degrada os
+ambientes urbanos; e a *Omafiets*, a bicicleta de rua padrão da Holanda, na
+qual homens e mulheres trafegam para trabalhar e passear todos os dias.
+
