@@ -9,7 +9,7 @@ favicon = true # Enable favicon, add your favicon files to /static/ directory
 grayscale_avatar = true # Add a grayscale filter to the avatar image
 author = 'Gustavo Ramos Rehermann' # Default author for <head> meta
 description = "LivreZine, publicação urbanista da Zona Norte de Porto Alegre" # Add a global meta description to <head>
-footer_text = "Feito com o tema [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff)." # Customize footer text
+footer_text = "Feito a partir do tema [Hugo Liftoff](https://github.com/wjh18/hugo-liftoff)." # Customize footer text
 fallback_text = "Conteúdo indisponível." # Fallback text for empty content
 label_drafts = true # Add a label indicator next to the title of any built drafts (dev only)
 
@@ -26,7 +26,7 @@ custom_js = 'custom.js' # Add the specified file to assets before setting this p
 
 ### Web schemas
 # Open Graph
-images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards images if none are present in front matter. Enter path to the image.
+images = ['images/centro-de-porto-alegre.jpg'] # Fallback for Open Graph and Twitter Cards images if none are present in front matter. Enter path to the image.
 ogLocale = "pt_BR" # Open graph locale
 
 # Twitter Cards
