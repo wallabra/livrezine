@@ -1,0 +1,24 @@
+---
+title: "Sobre"
+date: 2024-02-29T12:06:26-03:00
+draft: false
+---
+
+= Sobre
+
+A LivreZine é uma publicação semanal portoalegrense, voltada a *urbanismo*,
+*desenvolvimento social*, e *cultura popular*. Surge em fevereiro de 2024 para
+conscientizar a população sobre os espaços urbanos e sua importância no dia a
+dia dos cidadãos.
+
+Ação urbanista tem vários aspectos, desde o planejamento, o logístico, e o
+político. A LivreZine busca tratar de todos, e também trazer conteúdo
+diversificado para seus leitores, combinando entretenimento e educação, sem
+deixar de buscar a mudança necessária para melhorar a vida dos cidadãos
+portoalegrenses e ademais brasileiros.
+
+== O Time
+
+* *Gustavo Ramos Rehermann* é o cérebro e a espinha dorsal da LivreZine, tendo
+a conceitualizado e escrito, e desenvolvido o design dos folders, assim como
+o website.
