@@ -6,5 +6,8 @@ description = "A publicação urbanista mais antenada da Zona Norte de Porto Ale
 useCover = true
 coverLocation = "cover.png"
 
-[[params.author]]
+[params.author]
 name = "Gustavo Ramos Rehermann"
+
+[security.exec]
+allow = ["asciidoctor"]
