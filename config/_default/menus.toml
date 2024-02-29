@@ -1,0 +1,24 @@
+[[main]]
+    identifier = "sobre"
+    name = "Sobre"
+    url = "/sobre"
+    weight = 2
+
+[[main]]
+    identifier = "contato"
+    name = "Contato"
+    url = "/contato/"
+    weight = 3
+
+
+[[main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+
+[[main]]
+    identifier = "edicoes"
+    name = "Edições"
+    url = "/edições/"
+    weight = 4
