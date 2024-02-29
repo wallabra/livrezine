@@ -2,3 +2,9 @@ baseURL = 'https://wallabra.github.io/livrezine'
 languageCode = 'pt-br'
 title = 'LivreZine'
 theme = "spaced-blog"
+description = "A publicação urbanista mais antenada da Zona Norte de Porto Alegre!"
+useCover = true
+coverLocation = "cover.png"
+
+[[params.author]]
+name = "Gustavo Ramos Rehermann"
