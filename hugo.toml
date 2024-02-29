@@ -1,0 +1,4 @@
+baseURL = 'https://wallabra.github.io/livrezine'
+languageCode = 'pt-br'
+title = 'LivreZine'
+theme = "spaced-blog"
