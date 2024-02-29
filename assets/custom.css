@@ -10,6 +10,6 @@
   width: 100%;
   max-width: 100%;
   z-index: -50;
-  filter: grayscale(70%);
-  opacity: 0.2;
+  filter: grayscale(70%) brightness(.3);
+  opacity: 0.5;
 }

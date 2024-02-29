@@ -11,11 +11,11 @@
     weight = 3
 
 
-[[main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 4
+#[[main]]
+#    identifier = "blog"
+#    name = "Blog"
+#    url = "/blog/"
+#    weight = 4
 
 [[main]]
     identifier = "edicoes"
