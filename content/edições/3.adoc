@@ -1,5 +1,5 @@
 ---
-title: "3ª Ediçaõ"
+title: "3ª Edição"
 date: 2024-08-27T12:17:11-03:00
 draft: false
 ---
